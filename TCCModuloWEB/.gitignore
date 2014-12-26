@@ -4,3 +4,4 @@
 *.class
 *.MF
 *.prefs
+/target/
